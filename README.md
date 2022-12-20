@@ -1,10 +1,7 @@
 # NFT-preview-card-component
 Bitcamp fall 2022 challenge 2. Build NFT preview card component
 
-![Screenshot from 2022-12-20 22-44-00](https://user-images.githubusercontent.com/118678607/208742493-bd93c4d5-b229-488a-9677-e2c4ac129e54.png)
-
-
-
+![Screenshot from 2022-12-20 23-21-09](https://user-images.githubusercontent.com/118678607/208749342-915a4cad-2c63-4bff-8225-1c8f3c980c57.png)
 
 challenge Frontendmentor: [NFT preview card component](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
 
