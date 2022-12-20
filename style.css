@@ -20,7 +20,7 @@ body {
     padding: 24px 24px 32px 24px;
 }
 
-.image {
+.image-container {
     position: relative;
 }
 
@@ -29,7 +29,7 @@ body {
     border-radius: 8px;
 }
 
-.image div {
+.image-container div {
     position: absolute;
     background-color: hsla(178, 100%, 50%, 60%);
     top: 0;
@@ -38,13 +38,13 @@ body {
     opacity: 0;
 }
 
-.image div:hover {
+.image-container div:hover {
     opacity: 1;
     cursor: pointer;
     border-radius: 10px;
 }
 
-.image div img {
+.image-container div img {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -95,7 +95,7 @@ p {
     height: 16px;
 }
 
-.left {
+.left-flex {
     display: flex;
     align-items: center;
     gap: 0.6rem;
@@ -107,7 +107,7 @@ p {
     font-weight: 600;
 }
 
-.right {
+.right-flex {
     display: flex;
     font-weight: 400;
     align-items: center;
